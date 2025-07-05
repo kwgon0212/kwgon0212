@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&fontColor=000000&height=300&section=header&text=Ugoni's%20GitHub&desc=노베이스%20개발자&fontSize=90&animation=fadeIn&fontColor=fff&fontAlign=60&descAlign=88&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&fontColor=000000&height=300&section=header&text=Ugoni's%20GitHub&desc=노베이스%20개발자&fontSize=90&animation=fadeIn&fontColor=fff&fontAlign=60&descAlign=88&descAlignY=70" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwgon0212/kwgon0212/output/pacman-contribution-graph-dark.svg">
@@ -63,10 +63,12 @@
   <tr>
     <td width="50%" valign="top">
       <h2>💬 한마디</h2>
+      <div style="height:100%; display:flex; flex-direction:column; justify-content:center;">
       <p><b>“매일 0.1%씩 성장하는 개발자”</b>가 목표입니다.</p>
       <p>잠은 죽어서 자는 것을 목표로 하고 있습니다.</p>
       <p>🚀 신기한 건 다 해보고 싶어하는 개발자예요.</p>
       <p><code>console.log('나름 성장중입니다…');</code></p>
+      </div>
     </td>
     <td width="50%">
       <h2>🐾 My GitFarm</h2>
