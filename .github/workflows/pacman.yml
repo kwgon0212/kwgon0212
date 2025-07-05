@@ -1,0 +1,20 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 매 6시간마다 실행
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pacman
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Pacman Graph
+        uses: platane/snk@v3
+        with:
+          github_user_name: kwgon0212
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
