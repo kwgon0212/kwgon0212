@@ -1,43 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Ugoni's%20GitHub&desc=노베이스%20개발자&fontSize=90&animation=fadeIn&fontColor=fff&fontAlign=60&descAlign=88&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Ugoni's%20GitHub&desc=노베이스%20개발자&fontSize=90&animation=fadeIn&fontColor=fff&fontAlign=60&descAlign=88&descAlignY=70" />
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwgon0212/kwgon0212/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwgon0212/kwgon0212/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kwgon0212/kwgon0212/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center;">
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwgon0212" alt="Ugoni's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=kwgon0212&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+<div style="display: flex; gap:20px; margin-bottom:20px;">
+<div style="flex:1;">
+<img src="https://streak-stats.demolab.com?user=kwgon0212&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" height="100%"  />
 </div>
-  <img src="https://github-profile-trophy.vercel.app?username=kwgon0212&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div style="flex: 1;">
+<h2>🌈 About Me</h2>
+<p>🌟 언제나 노베이스 마인드로 끊임없는 학습을 하는 사람입니다.</p>
+<p>🔥 JavaScript는 사랑</p>
+</div>
+</div>
+
+<div style="display:flex; gap:20px;">
+<div style="flex: 1; display:flex; flex-direction: column; gap:20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=kwgon0212&show_icons=true&theme=tokyonight&rank_icon=github" height="150" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwgon0212&layout=compact&theme=tokyonight" height="150" width="100%" />
+</div>
+<table style="flex: 1;">
+  <tr>
+    <td><b>🎯 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚛️ Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠 Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📦 DevOps & Monitoring</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sentry,docker,aws" height="30" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+
+<br/>
+
+<br/>
+
+<br/>
+
+<div style="display:flex;">
+<div style="flex: 1;">
+<h2>💬 한마디</h2>
+<div style="display:flex; height: 100%; flex-direction:column; justify-content:center; align-items:center;">
+<p><b>“매일 0.1%씩 성장하는 개발자”</b>가 목표입니다.</p>
+<p>잠은 죽어서 자는 것을 목표로 하고있습니다.</p>
+<code>console.log(‘나름 성장중입니다…’);</code>
+</div>
 </div>
 
+<div style="flex: 1;">
+<h2>🐾 My GitFarm</h2>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwgon0212&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/kwgon0212"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/kwgon0212" height="250" />
 </a>
+</div>
+</div>
+
+<br/>
+
+## 📫 Contact
+
+<p>언제든 연락주세요!</p>
+<p>kwgon0102@gmail.com</p>
+
+<img src="https://profile-counter.glitch.me/kwgon0212/count.svg"  />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9745F5&height=120&section=footer" />
